@@ -25,7 +25,7 @@ $ python run_me.py
 
 YOU MUST WRITE PROTOCOLE "HTTPS://" or "HTTP://" ex: http://www.site.com , ex :https://www.site.com
 
-YOU MUST WRITE / AT THE END OF THE SITE EX: www.example.com
+YOU MUST WRITE "/" AT THE END OF THE SITE EX: www.site.com
 
 
 
